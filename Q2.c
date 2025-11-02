@@ -81,7 +81,7 @@ int main(){
                 break;
             }
             case 3:{
-                // According to the scenario given in question for Add Item, inventory is being updated there so there is no logic to update it two times.
+                // According to the scenario given in question for Add Item, inventory is being updated there so I think there is no logic to update it two times.
                 printf("I have added a comment please read that.");
                 break;
             }
@@ -108,4 +108,5 @@ int main(){
     }while (choice != 7);
     
     return 0;
+
 }
